@@ -15,20 +15,20 @@ class _HamsterGachaState extends State<HamsterGacha> {
   bool loading = false;
   final emojis = ['🍱', '🍔', '🥘', '🍚'];
   final images = [
-    'web/1.jpeg',
-    'web/2.jpeg',
-    'web/3.jpeg',
-    'web/4.jpeg',
-    'web/5.jpeg',
-    'web/6.jpeg',
-    'web/7.jpeg',
-    'web/8.jpeg',
-    'web/9.jpeg',
-    'web/10.jpeg',
-    'web/11.jpeg',
-    'web/12.jpeg',
-    'web/13.jpeg',
-    'web/14.jpeg'
+    '1.jpeg',
+    '2.jpeg',
+    '3.jpeg',
+    '4.jpeg',
+    '5.jpeg',
+    '6.jpeg',
+    '7.jpeg',
+    '8.jpeg',
+    '9.jpeg',
+    '10.jpeg',
+    '11.jpeg',
+    '12.jpeg',
+    '13.jpeg',
+    '14.jpeg'
   ];
 
  Future<void> gacha() async {
